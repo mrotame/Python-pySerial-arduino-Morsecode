@@ -2,4 +2,6 @@
 
 A simple script that converts a word into mosecode and send to arduino by serial port
 
-Maincode.py (Change vars "port" and "speed" as needed by your arduino project)
+MainCode.py (Change vars "port" and "speed" as needed by your arduino project)
+
+morse_python.ino (a simple arduino's blink-sketch to receive command from serial)
